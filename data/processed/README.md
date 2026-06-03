@@ -1,2 +1,8 @@
-# business-performance-dashboard-powerbi
-Power BI dashboard project for retail business performance analysis using Maven Toys dataset.
+# Dados Processados
+
+Esta pasta está reservada para arquivos tratados ou exportações intermediárias, caso sejam necessários durante o projeto.
+
+No momento, o projeto utiliza os arquivos originais localizados em:
+
+```text
+data/raw/
