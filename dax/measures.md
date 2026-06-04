@@ -509,12 +509,11 @@ Durante o uso das medidas, observar os seguintes pontos:
 
 ---
 
-## 10. Status das medidas
+### 10. Status das medidas
 
 Status atual:
 
-* Medidas planejadas: sim.
-* Medidas criadas no Power BI: ainda não.
-* Medidas validadas no dashboard: ainda não.
-
-Este documento será atualizado após a criação das medidas no Power BI Desktop.
+- Medidas planejadas: sim.
+- Medidas criadas no Power BI: sim.
+- Medidas validadas em cartões de teste: sim.
+- Medidas validadas no dashboard final: ainda não.
